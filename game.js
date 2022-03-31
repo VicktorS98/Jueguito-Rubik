@@ -7,7 +7,7 @@ var buttonColours = ["red", "blue", "green", "yellow"];
 var level = 0
 
 
-$(document).one("click", function () {
+$("h1").one("click", function () {
         $("h1").text("Level " + level);
         nextSequence();
     });

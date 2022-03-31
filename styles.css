@@ -23,10 +23,10 @@ body {
 
 
 .btn {
-  margin: 15px;
+  margin: 12px;
   display: inline-block;
-  height: 150px;
-  width: 150px;
+  height: 140px;
+  width: 140px;
   border: 10px solid black;
   border-radius: 20%;
 }

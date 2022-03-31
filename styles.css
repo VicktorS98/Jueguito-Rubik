@@ -18,15 +18,15 @@ body {
 }
 
 .row {
-  display: block;
+  display: inline-flex;
 }
 
 
 .btn {
-  margin: 12px;
+  margin: 15px;
   display: inline-block;
-  height: 140px;
-  width: 140px;
+  height: 180px;
+  width: 180px;
   border: 10px solid black;
   border-radius: 20%;
 }

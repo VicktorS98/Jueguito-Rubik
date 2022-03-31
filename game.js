@@ -46,6 +46,7 @@ function checkAnswer(currentLevel) {
                 $("h1").text("Game over. Click Here To Restart");
                 $("h1").css("textDecoration", "underline");
                 $("h1").css("line-height", "4rem");
+                $("h1").css("font-size", "1rem");
                 $("h1").click(function() {
                         document.location.reload();
                 });

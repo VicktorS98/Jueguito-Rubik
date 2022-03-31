@@ -17,6 +17,10 @@ body {
 
 }
 
+.row {
+  display: block;
+}
+
 .btn {
   margin: 25px;
   display: inline-block;
